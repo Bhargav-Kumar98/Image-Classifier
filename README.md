@@ -4,6 +4,6 @@ In this project, I will train an image classifier to recognize different species
 
 The project is broken down into multiple steps:
 
-Load and preprocess the image dataset
-Train the image classifier on your dataset
-Use the trained classifier to predict image content
+1. Load and preprocess the image dataset
+2. Train the image classifier on your dataset
+3. Use the trained classifier to predict image content
